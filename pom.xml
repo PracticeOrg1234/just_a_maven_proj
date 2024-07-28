@@ -9,7 +9,7 @@
 	  <sonar.projectKey>mavenkey</sonar.projectKey>
 	  <sonar.projectName>mavenkey</sonar.projectName>
     	  <sonar.host.url>http://3.109.201.38:9000/</sonar.host.url>
- 	  <sonar.token>squ_eca22ec1a97f2bdb160dd644129aee68b487bb15</sonar.token>
+ 	  <sonar.login>squ_0339de5abb71a9fba78bfb367edfd529935c5965</sonar.login>
     	  <sonar.projectVersion>1.0</sonar.projectVersion>
   </properties>
 
