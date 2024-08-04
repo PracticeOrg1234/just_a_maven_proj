@@ -8,8 +8,8 @@
   <properties>
 	  <sonar.projectKey>mavenkey</sonar.projectKey>
 	  <sonar.projectName>mavenkey</sonar.projectName>
-    	  <sonar.host.url>http://192.168.0.111:9000/</sonar.host.url>
- 	  <sonar.login>squ_54fd924235841060a7e646a831e3f613b4c9c5fe</sonar.login>
+    	  <sonar.host.url>http://65.0.127.184:9000/</sonar.host.url>
+ 	  <sonar.login>squ_b7615ec95de557d48a9726bdb005e9996ed24091</sonar.login>
     	  <sonar.projectVersion>1.0</sonar.projectVersion>
     	  <sonar-maven-plugin.version>4.0.0.4121</sonar-maven-plugin.version>
   </properties>
